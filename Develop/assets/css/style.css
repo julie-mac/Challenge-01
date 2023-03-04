@@ -16,7 +16,7 @@ header {
 }
 
 .header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
@@ -24,7 +24,7 @@ header {
     color: #d9dcd6;
 }
 
-.header div {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,12 +32,12 @@ header {
     font-size: 20px;
 }
 
-.header div ul {
+nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
-    display: inline-block;
+nav ul li {
+    display: inline;
     margin-left: 25px;
 }
 
