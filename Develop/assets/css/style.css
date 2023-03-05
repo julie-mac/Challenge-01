@@ -31,10 +31,7 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-nav ul {
-    list-style-type: none;
-}
+/*Removed line specifying list-syle-type:none, it's arbitrary*/
 
 nav ul li {
     display: inline;
@@ -127,3 +124,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/*Elements have been rearranged to match the order they show up in the HTML code*/
