@@ -20,7 +20,8 @@ header {
     font-size: 48px;
 }
 
-.seo {
+.seo { 
+    /*Removed arbitrary tag selection before .seo, since it is the only element with this tag*/
     color: #d9dcd6;
 }
 
@@ -50,13 +51,11 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.digital-marketing-meeting {
+    position: fixed
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .float-left {
