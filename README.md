@@ -14,10 +14,12 @@ N/A
 
 To navigate this webpage, refer to the navigation bar at the top of the page. There you will find references to the services offered by Horiseon, and by clicking one, the page will jump to the appropriate section with more information.
 
+![Screenshot of Navigation Bar on Horiseon Webpage](assets/images/navbar-screenshot.png)
+
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/.png)
     ```
 
 ## Credits
