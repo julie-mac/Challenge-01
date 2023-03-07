@@ -18,11 +18,7 @@ To navigate this webpage, refer to the navigation bar at the top of the page. Th
 
 ## Credits
 
-<<<<<<< HEAD
-[Xandromus](https://github.com/Xandromus) on Github - Provided starter code
-=======
 [Xandromus](https://github.com/Xandromus) - Provided starter code
->>>>>>> df23ffb (Fixed links to Github profiles in README)
 
 [julie-mac](https://github.com/julie-mac)
 
