@@ -22,10 +22,6 @@ To navigate this webpage, refer to the navigation bar at the top of the page. Th
 
 [julie-mac](https://github.com/julie-mac)
 
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
 ## Badges
 
 ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/julielearnscode.svg?style=social&label=Follow%20%40julielearnscode)
