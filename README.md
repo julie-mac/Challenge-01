@@ -22,6 +22,10 @@ To navigate this webpage, refer to the navigation bar at the top of the page. Th
 
 [julie-mac](https://github.com/julie-mac)
 
+## License
+
+Please refer to the LICENSE in the repository.
+
 ## Badges
 
 ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/julielearnscode.svg?style=social&label=Follow%20%40julielearnscode)
