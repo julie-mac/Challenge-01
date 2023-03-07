@@ -8,7 +8,7 @@ The purpose of this website is to promote Horiseon's services and attract custom
 
 ## Installation
 
-No installation required - [Click here](julie-mac.github.io/horiseon) to view the deployed webpage
+No installation required - [Click here](https://julie-mac.github.io/horiseon/) to view the deployed webpage
 
 ## Usage
 
