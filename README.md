@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was a code refactor for Horiseon's website. The goal was to fix certain bugs, add alt elements to images for accessibility purposes, and clean up any repeating code.
+This project was a code refactor for Horiseon's website. The goal was to replace certain elements in the HTML with more semantic ones, add alt elements to images for accessibility purposes, and clean up any repeating code.
 
 The purpose of this website is to promote Horiseon's services and attract customers to them, while also explaining what services they offer to their clients, such as Search Engine Optimization, Online Reputation Management, and Social Media Marketing. The page also lists the added benefits that come with their services, such as Lead Generation, Brand Awareness, and Cost Management.
 
