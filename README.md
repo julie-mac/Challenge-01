@@ -8,17 +8,18 @@ The purpose of this website is to promote Horiseon's services and attract custom
 
 ## Installation
 
-N/A
+No installation required - [Click here](URL) to view the deployed webpage
 
 ## Usage
 
 To navigate this webpage, refer to the navigation bar at the top of the page. There you will find references to the services offered by Horiseon, and by clicking one, the page will jump to the appropriate section with more information.
 
-![Screenshot of Navigation Bar on Horiseon Webpage](Develop/assets/images/navbar-screenshot.png)
+![Screenshot of Navigation Bar on Horiseon Webpage](Develop/assets/images/webpage-screenshot.png)
 
 ## Credits
 
-[Xandromus on Github - Click here to see their repository!](https://github.com/coding-boot-camp/urban-octo-telegram)
+[Xandromus](https://github.com/Xandromus) on Github - Provided starter code
+[julie-mac](https://github.com/julie-mac)
 
 ## License
 

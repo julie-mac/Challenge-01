@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/*This block sets background colour for entire webpage*/
 body {
     background-color: #d9dcd6;
 }
@@ -35,6 +36,7 @@ nav {
     font-size: 20px;
 }
 
+/*These blocks change the style of the links to navigate the webpage*/
 nav ul li {
     display: inline;
     margin-left: 25px;
@@ -69,19 +71,12 @@ a {
     color: #ffffff;
 } 
 
+/*Sets the max height for all images in main content sections*/
 .content section img {
     max-height: 200px;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-p {
-    font-size: 16px;
-}
-
+/*The class float selectors style the images for the main content, two float left and two float right*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -90,6 +85,17 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+/*Styling for the title of main content sections*/
+.content section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*Styling for information of main content sections, as well as information in side bar sections*/
+.content section p {
+    font-size: 16px;
 }
 /*End of main content styling*/
 
@@ -110,11 +116,13 @@ p {
     color: #ffffff;
 } 
 
-h3 {
+/*Styling for titles of side bar sections, styling for p element for the side bar can be found with the main content sections as they are assigned the same styling*/
+.benefits section h3 {
     margin-bottom: 10px;
     text-align: center;
 } 
 
+/*Styles icons in side bar content*/
 .benefits section img {
     display: block;
     margin: 10px auto;
