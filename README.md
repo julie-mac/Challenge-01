@@ -19,6 +19,7 @@ To navigate this webpage, refer to the navigation bar at the top of the page. Th
 ## Credits
 
 [Xandromus](https://github.com/Xandromus) on Github - Provided starter code
+
 [julie-mac](https://github.com/julie-mac)
 
 ## License
